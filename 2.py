@@ -1,5 +1,5 @@
 # Mwehehehe
-alas = float(input('Rumus alas segitiga: '))
+alas = float(input('Alas segitiga: '))
 tinggi = float(input('Tinggi segitiga: '))
 
 luas = (alas * tinggi) / 2
